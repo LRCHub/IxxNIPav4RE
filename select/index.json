@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Te quiero",
+  "base_artist": "Hombres G",
+  "createdAt": "2026-02-13T03:17:31.427978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Que Te Quiero",
+      "artist": "Katrina and the Waves",
+      "has_synced": true,
+      "path": "select/01_Que_Te_Quiero_Katrina_and_the_Waves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Que Te Quiero (1983)",
+      "artist": "Katrina and the Waves",
+      "has_synced": true,
+      "path": "select/02_Que_Te_Quiero_(1983)_Katrina_and_the_Waves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Te Quiero Igual",
+      "artist": "Andrés Calamaro",
+      "has_synced": true,
+      "path": "select/03_Te_Quiero_Igual_Andrés_Calamaro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Te Quiero - Radio Edit",
+      "artist": "Willy William",
+      "has_synced": true,
+      "path": "select/04_Te_Quiero_-_Radio_Edit_Willy_William.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Te Quiero Pero Por Otro Lado…",
+      "artist": "Savath & Savalas",
+      "has_synced": false,
+      "path": "select/05_Te_Quiero_Pero_Por_Otro_Lado..._Savath_&_Savalas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Te quiero pero por otro lado....",
+      "artist": "Savath & Savalas",
+      "has_synced": false,
+      "path": "select/06_Te_quiero_pero_por_otro_lado...._Savath_&_Savalas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Así Te Quiero",
+      "artist": "Joan Sebastian",
+      "has_synced": true,
+      "path": "select/07_Así_Te_Quiero_Joan_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aunque Te Quiero",
+      "artist": "Conjunto Rio Grande",
+      "has_synced": false,
+      "path": "select/08_Aunque_Te_Quiero_Conjunto_Rio_Grande.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dejame, Si Has Olvidado Que Te Quiero",
+      "artist": "Los Acosta",
+      "has_synced": true,
+      "path": "select/09_Dejame,_Si_Has_Olvidado_Que_Te_Quiero_Los_Acosta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mami Te Quiero",
+      "artist": "Lucenzo",
+      "has_synced": true,
+      "path": "select/10_Mami_Te_Quiero_Lucenzo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Te Quiero Perder",
+      "artist": "Los Fugitivos",
+      "has_synced": false,
+      "path": "select/11_No_Te_Quiero_Perder_Los_Fugitivos.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sabes Bien Como Te Quiero",
+      "artist": "Los Acosta",
+      "has_synced": false,
+      "path": "select/12_Sabes_Bien_Como_Te_Quiero_Los_Acosta.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Te Quiero Así",
+      "artist": "Carin Leon",
+      "has_synced": true,
+      "path": "select/13_Te_Quiero_Así_Carin_Leon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Te Quiero Mucho",
+      "artist": "Lenin Ramírez",
+      "has_synced": true,
+      "path": "select/14_Te_Quiero_Mucho_Lenin_Ramírez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Te quiero mucho mucho",
+      "artist": "Rocío Dúrcal",
+      "has_synced": true,
+      "path": "select/15_Te_quiero_mucho_mucho_Rocío_Dúrcal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Te Quiero Tanto",
+      "artist": "Los Acosta",
+      "has_synced": true,
+      "path": "select/16_Te_Quiero_Tanto_Los_Acosta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Te quiero",
+      "artist": "Hombres G",
+      "has_synced": false,
+      "path": "select/pl_01_Te_quiero_Hombres_G.txt"
+    }
+  ]
+}
