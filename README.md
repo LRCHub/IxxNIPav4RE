@@ -1,0 +1,42 @@
+# Hombres G – Te quiero
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+No, ya no me llores,
+No me vayas a hacer
+Llorar a m.
+Dame, dame tu mano
+Intntalo, mi nia
+Quiero verte rer
+Abrzame fuerte,
+Ven corriendo a m,
+Te quiero, te quiero, te quiero
+Y no hago otra cosa
+Que pensar en ti...
+T, ya ests dormida
+Y yo te abrazo y
+Siento que respiras
+Sueo, con tu sonrisa
+Te beso, muy despacio en
+las mejillas
+Necesito verte,
+Donde quiera que stes
+Te quiero, te quiero, te quiero
+Y no hago otra cosa
+Que pensar en ti
+Slo vivo y respiro
+Para ti...
+Te quiero
+Te quiero
+Te quiero
+Te quiero
+Abrzame fuerte,
+Ven corriendo a mi,
+Djame que te diga
+Otra vez que te quiero
+Te quiero, te quiero te quiero
+(Djame que te diga otra Vez
+que te quiero, te quiero,
+te quiero te quiero) X 2
+```
